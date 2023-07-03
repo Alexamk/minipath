@@ -1,0 +1,12 @@
+name: minipath
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - scipy
+  - numba
+  - numpy
+  - scikit-learn
+  - configargparse
+  - matplotlib
+prefix: /home/alexander/miniconda3/envs/minipath
