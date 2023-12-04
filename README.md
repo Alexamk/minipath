@@ -1,4 +1,4 @@
-# minipath
+# MinIPath
 Minipath (minimum indirect path) is a graph analysis tool to remove spurious crosslinks and split fused nodes from paired adjacency data.
 
 Specifically implemented for bipartite, weighted graphs of DNA microscopy experimental data.
